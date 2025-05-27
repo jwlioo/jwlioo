@@ -1,16 +1,37 @@
-![](./profile-3d-contrib/profile-night-view.svg)
+## 💜 Olá, meu nome é Júlio!
 
-<!--
-**jwlioo/jwlioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+E sou estudante de **Desenvolvimento de Sistemas** no **SENAI Sorocaba**.  
+Sou apaixonado por tecnologia, redes e infraestrutura, e estou sempre em busca de aprender mais e colocar em prática meus conhecimentos.
 
-Here are some ideas to get you started:
+Aqui no meu GitHub, você vai encontrar projetos, exercícios e experimentos que desenvolvo durante meus estudos e aprendizados no SENAI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Tecnologias e Ferramentas que estou aprendendo
+
+- Python
+- APIs REST
+- Git e GitHub
+- MySQL / PostgreSQL
+- Node.js / JavaScript
+
+## 💡 Interesses
+
+- Desenvolvimento de APIs
+- Integração com bancos de dados
+- Boas práticas de código e arquitetura
+- Segurança em aplicações web
+
+---
+
+## 🚀 Minhas Skills
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,nodejs,figma,github,linux,postman,vite,discord,linkedin,instagram" />
+</a>
+  <br />
+
+  </div>
+
+## 📦 Commits
+![](./profile-3d-contrib/profile-night-green.svg)
+
