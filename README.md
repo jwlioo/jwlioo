@@ -13,6 +13,8 @@ Aqui no meu GitHub, você vai encontrar projetos, exercícios e experimentos que
 - Git e GitHub
 - MySQL / PostgreSQL
 - Node.js / JavaScript
+- React / Native
+  
 
 ## 💡 Interesses
 
