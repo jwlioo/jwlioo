@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Júlio!
+## Olá, meu nome é Júlio!
 
 E sou estudante de **Desenvolvimento de Sistemas** no **SENAI Sorocaba**.  
 Sou apaixonado por tecnologia, redes e infraestrutura, e estou sempre em busca de aprender mais e colocar em prática meus conhecimentos.
